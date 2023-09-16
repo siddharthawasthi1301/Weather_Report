@@ -15,7 +15,7 @@ l3.pack()
 l4 = Label()
 l4.place(x=200,y=450)
 l5=Label()
-l5.place(x=250,y=500)
+l5.place(x=200,y=500)
 v = StringVar()
 
 def action():
